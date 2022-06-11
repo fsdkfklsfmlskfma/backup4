@@ -40,7 +40,7 @@
       gtx1060,
       gtx1050,
       gtx770,
-      gtx750,
+      gtx750, 
       rtx3090,
       rtx3060,
       gtx970,
